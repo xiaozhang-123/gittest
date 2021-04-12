@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b179459d-504f-4706-9b2f-41bf3ff141a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testcode/src/class3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcode/src/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/testcode/src/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcode/src/class3.java" beforeDir="false" afterPath="$PROJECT_DIR$/testcode/src/class3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -81,17 +82,46 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
     <MESSAGE value="第一次提交1" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交1" />
+    <MESSAGE value="Merge branch 'main' of https://github.com/xiaozhang-123/gittest&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml&#10;#&#9;.idea/vcs.xml&#10;#&#9;README.md&#10;#&#9;testcode/src/class1.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/xiaozhang-123/gittest&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml&#10;#&#9;.idea/vcs.xml&#10;#&#9;README.md&#10;#&#9;testcode/src/class1.java" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="166" key="CommitChangelistDialog2" timestamp="1618231547098">
+    <state x="494" y="10" key="CommitChangelistDialog2" timestamp="1618237914609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="494" y="166" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618231547098" />
-    <state x="510" y="332" key="Vcs.Push.Dialog.v2" timestamp="1618232231782">
+    <state x="494" y="10" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618237914609" />
+    <state width="261" height="442" key="Diff.GoToChangePopup" timestamp="1618237896014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="510" y="332" key="Vcs.Push.Dialog.v2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618232231782" />
+    <state width="261" height="442" key="Diff.GoToChangePopup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618237896014" />
+    <state x="178" y="90" key="DiffContextDialog" timestamp="1618237901423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="178" y="90" key="DiffContextDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618237901423" />
+    <state x="689" y="322" key="FileChooserDialogImpl" timestamp="1618236327340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="322" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618236327340" />
+    <state x="133" y="145" key="MergeDialog" timestamp="1618238031097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="133" y="145" key="MergeDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618238031097" />
+    <state x="541" y="341" key="MultipleFileMergeDialog" timestamp="1618238031102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="541" y="341" key="MultipleFileMergeDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618238031102" />
+    <state x="510" y="332" key="Vcs.Push.Dialog.v2" timestamp="1618236772399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="510" y="332" key="Vcs.Push.Dialog.v2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618236772399" />
+    <state x="695" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618237924215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="695" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618237924215" />
+    <state x="597" y="379" key="git4idea.merge.GitPullDialog" timestamp="1618237799035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="597" y="379" key="git4idea.merge.GitPullDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618237799035" />
     <state x="292" y="200" key="new project wizard" timestamp="1618231405547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
